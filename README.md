@@ -185,10 +185,14 @@ df5
 ## OUPUT
 ![output](./output1.png)
 ![output](./output2.png)
+
+## Data.csv
 ![output](./output3.png)
 ![output](./output4.png)
 ![output](./output5.png)
 ![output](./output6.png)
+
+## Titanic.csv
 ![output](./output7.png)
 ![output](./output8.png)
 ![output](./output9.png)
